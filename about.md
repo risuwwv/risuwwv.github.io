@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-My email address is risuwwv, the domain name is ![alt text]({{ site.baseurl }}/images/google.png =12x)
+My email address is risuwwv, the domain name is ![alt text]({{ site.baseurl }}/images/google.png)
