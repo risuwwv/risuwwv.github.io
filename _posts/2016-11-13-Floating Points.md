@@ -180,8 +180,11 @@ Unless they are produced by the exact same steps, rounding errors may make two n
 <div id='Links'/>
 # Links:
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+<br>
 [Wikipedia: Single-precision floating-point format](https://en.wikipedia.org/wiki/Single-precision_floating-point_format)
+<br>
 [Wikipedia: Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+<br>
 [Kahan Summation](https://en.wikipedia.org/wiki/Kahan_summation_algorithm)
 
 As this is my first post using Jekyll, please feel free to criticize both the form and the content!
