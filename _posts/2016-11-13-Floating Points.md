@@ -10,12 +10,19 @@ All the code below can be found [in my github](https://github.com/risuwwv/Approx
 
 # Table of Contents
 [Floating points](#Floatingpointnumbers)
+<br>
 [float](#float)
+<br>
 [double](#double)
+<br>
 [bit_cast](#bit_cast)
+<br>
 [Limitations](#Limitations)
+<br>
 [Comparing floats](#Comparingfloats)
+<br>
 [Fun facts](#Funfacts)
+<br>
 [Links](Links)
 
 <div id='Floatingpointnumbers'/>
