@@ -9,10 +9,15 @@ All the code below can be found [in my github](https://github.com/risuwwv/Approx
 
 # Table of Contents
 [Square root approximation](#sqrt)
+<br>
 [Constexpr](#Constexpr)
+<br>
 [Useful Functions](#Useful)
+<br>
 [Vectorization](#Vectorization)
+<br>
 [Details](#Details)
+<br>
 [Future work](#future)
 
 <div id='sqrt'/>
@@ -251,12 +256,19 @@ which would not be good if it was called on runtime parameter, so we would need 
 ### Useful functions for float:
 
 [std::isfinite](http://en.cppreference.com/w/cpp/numeric/math/isfinite)/[std::isnormal](http://en.cppreference.com/w/cpp/numeric/math/isnormal)/[std::isinf](http://en.cppreference.com/w/cpp/numeric/math/isinf)/[std::isnan](http://en.cppreference.com/w/cpp/numeric/math/isnan)/[std::fpclassify](http://en.cppreference.com/w/cpp/numeric/math/fpclassify)
+<br>
 [std::logb](http://en.cppreference.com/w/cpp/numeric/math/logb)/[std::ilogb](http://en.cppreference.com/w/cpp/numeric/math/ilogb)
+<br>
 [std::scalbn](http://en.cppreference.com/w/cpp/numeric/math/scalbn)
+<br>
 [std::modf](http://en.cppreference.com/w/cpp/numeric/math/modf)
+<br>
 [std::nearbyint](http://en.cppreference.com/w/cpp/numeric/math/nearbyint)/[std::rint](http://en.cppreference.com/w/cpp/numeric/math/rint)
+<br>
 [std::fesetround](http://en.cppreference.com/w/cpp/numeric/fenv/feround)/[std::fegetround](http://en.cppreference.com/w/cpp/numeric/fenv/feround)
+<br>
 [std::nexafter](http://en.cppreference.com/w/cpp/numeric/math/nextafter)/[nexttoward](http://en.cppreference.com/w/cpp/numeric/math/nextafter)
+<br>
 [std::trunc](http://en.cppreference.com/w/cpp/numeric/math/trunc)/[std::floor](http://en.cppreference.com/w/cpp/numeric/math/floor)/[std::ceil](http://en.cppreference.com/w/cpp/numeric/math/ceil)/[std::round](http://en.cppreference.com/w/cpp/numeric/math/round)
 
 <div id='Vectorization'/>  
